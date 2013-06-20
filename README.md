@@ -1,4 +1,4 @@
 Steam-API
 =========
 
-Messing around with OpenSteamWorms
+Messing around with OpenSteamWorks
